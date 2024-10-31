@@ -1,0 +1,161 @@
+body {
+  background-color: rgb(52, 68, 67);
+}
+li {
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+.bruno {
+  background-image: url("brimage.jpg");
+  width: 738px;
+  height: 642px;
+  margin: auto;
+}
+.planets {
+  align-self: start;
+  /* margin-top: 25px; */
+}
+
+.maintitle {
+  font-size: 50px;
+  font-weight: bold;
+  color: blanchedalmond;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.question {
+  font-size: 38px;
+  color: blanchedalmond;
+  text-align: center;
+}
+.headernatal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: start;
+}
+.stikcontainer {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.stick {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  align-self: start;
+}
+
+.mainpicture {
+  margin: auto;
+  display: block;
+}
+.box {
+  margin: 25px auto;
+  display: block;
+}
+
+.arab {
+  background-image: url("arab.jpg");
+  width: 626px;
+  height: 417px;
+  margin-top: 50px;
+
+  margin-bottom: 10px;
+}
+.text {
+  margin-top: 5px;
+  width: 100%;
+  font-size: 25px;
+  color: blanchedalmond;
+}
+.notes {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 25px;
+  color: blanchedalmond;
+}
+
+.title {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 45px;
+  font-weight: bold;
+  color: blanchedalmond;
+}
+.data {
+  page-break-before: always;
+}
+.table {
+  display: block;
+  margin: 10px auto;
+}
+.comfort {
+  background-image: url("comfort.jpg");
+  width: 600px;
+  height: 450px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.michael {
+  background-image: url("michael.jpg");
+  width: 1000px;
+  height: 668px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.print {
+  background-image: url("print.jpg");
+  width: 600px;
+  height: 338px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.marl {
+  background-image: url("marl.jpg");
+  width: 630px;
+  height: 547px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.masina {
+  background-image: url("masina.jpg");
+  width: 700px;
+  height: 465px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.india {
+  background-image: url("india.jpg");
+  width: 640px;
+  height: 300px;
+  margin: auto;
+  margin-bottom: 25px;
+}
+
+.money {
+  background-image: url("money.jpg");
+  width: 960px;
+  height: 667px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.sea {
+  background-image: url("sea.jpg");
+  width: 1207px;
+  height: 705px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.text p {
+  text-align: center;
+}
+.test {
+  margin-top: 24px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: start;
+}
